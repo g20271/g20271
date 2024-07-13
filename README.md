@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on 
+  - 高専プロコン2024 自由部門
+- 🌱 I’m currently learning ...
+  - Unity
+  - Arduino
+  - ESP32
+
 
 
 <!--
