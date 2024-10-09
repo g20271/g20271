@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on 
-  - 高専プロコン2024 自由部門
+  - 高専プロコン2024 自由部門 「Uni」
 - ✨ I’ve worked on ...
   - 高専プロコン2023 自由部門 「わんもあ」 最優秀賞
   - 高専プロコン2022 課題部門 「Voice Cat」 優秀賞
